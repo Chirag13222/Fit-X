@@ -13,6 +13,6 @@ This repository contains the source code for a Fit-X website, implemented using 
 
 ### Installation
 To run the gym website locally as a single page application, follow these steps:
-- Clone this repository: git clone `https://github.com/mian-ali/GymWebsite.git`
+- Clone this repository: git clone `https://github.com/Chirag13222/Fit-X`
 - Navigate to the project directory: cd Fit-X
 - Open the index.html file in your web browser.
